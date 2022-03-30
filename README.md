@@ -2,8 +2,11 @@
 BungeeCordプラグイン
 
 ## Description
-  BungeeCord上のServerListPlusのプレースホルダに `%server_status%` を追加する。<br>
+  デフォルトサーバーのオンラインステータスをチェックし、<br>
+  のServerListPlusのプレースホルダに `%server_status%` を追加する。<br>
+  
   チェックを行う対象のサーバーは BungeeCord config.yml 内の listeners.priorities 設定の最初のサーバー。
+  ※ BungeeCord 環境のみ
 
 ## Requirement
 - BungeeCord
