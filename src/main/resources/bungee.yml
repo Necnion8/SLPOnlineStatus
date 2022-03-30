@@ -1,0 +1,5 @@
+name: SLPOnlineStatus
+version: '${version}'
+main: com.gmail.necnionch.myplugin.slponlinestatus.bungee.SLPOnlineStatusPlugin
+description: Add server status placeholder to ServerListPlus (%server_status%)
+depends: [ ServerListPlus ]

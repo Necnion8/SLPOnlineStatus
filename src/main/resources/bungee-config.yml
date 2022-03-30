@@ -1,0 +1,4 @@
+status-names:
+  offline: "&cOFFLINE"
+  online: "&aONLINE"
+  unknown: "&7UNKNOWN"
