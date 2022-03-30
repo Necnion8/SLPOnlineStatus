@@ -18,4 +18,4 @@ BungeeCordプラグイン
 3. 設定を反映させたい場合は、`/greload` を実行する
 
 ## Licence
-[MIT](https://github.com/kotabrog/ft_mini_ls/blob/main/LICENSE)
+MIT
